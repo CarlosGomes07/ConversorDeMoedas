@@ -66,3 +66,5 @@ Interagir com o usuário foi uma parte emocionante do desafio. Implementei uma i
 </p>
 
 ## <a name="badge-certificados"> Badge e Certificado </a>
+
+<img width="400" heigth="400" src="./conversorApp/src/image/Badge-Conversor.png"/>
